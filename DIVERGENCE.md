@@ -7,18 +7,18 @@
 **Attractor field:** Beta
 **Operating posture:** Steady-State Delivery Cadence
 **Observation window:** 2026-11-16
-**Observations this cycle:** 5 of 8
+**Observations this cycle:** 6 of 8
 
 ## Key Performance Indicators
 
 | Indicator | Reading | WoW | Owner |
 |---|---|---|---|
-| Worldline Divergence | 0.365694 | ▲ | Jerry Gergich |
-| Synergy Coefficient (name subject to change) | 0.69 | ▼ | Itaru Hashida |
-| Stakeholder Alignment Index | 2.9 | ─ | Hououin Kyouma |
-| Ideation Throughput | 8 story points | ─ | Hououin Kyouma |
-| Bandwidth Utilisation | 128% | ▼ | Itaru Hashida |
-| Lil Sebastian Sentiment | 5,000 candles | ▲ | Chris Traeger |
+| Worldline Divergence | 0.365694 | ▼ | Leslie Knope |
+| Synergy Coefficient (name subject to change) | 0.98 | ─ | Itaru Hashida |
+| Stakeholder Alignment Index | 7.5 | ▼ | Makise Kurisu |
+| Ideation Throughput | 8 story points | ▲ | Ron Swanson |
+| Bandwidth Utilisation | 75% | ─ | Itaru Hashida |
+| Lil Sebastian Sentiment | 5,000 candles | ▼ | Leslie Knope |
 
 Ideation Throughput is this cycle's commit count with a different name on it.
 Every other row is a random number. No decisions were informed by this document.
