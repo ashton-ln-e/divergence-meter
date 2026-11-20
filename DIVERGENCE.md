@@ -1,24 +1,24 @@
 # Divergence Meter
 
     ┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐┌─┐
-    │0││.││3││5││2││6││1││2│
+    │0││.││3││5││8││6││1││9│
     └─┘└─┘└─┘└─┘└─┘└─┘└─┘└─┘
 
 **Attractor field:** Beta
 **Operating posture:** Steady-State Delivery Cadence
-**Observation window:** 2026-11-19
-**Observations this cycle:** 3 of 3
+**Observation window:** 2026-11-20
+**Observations this cycle:** 1 of 7
 
 ## Key Performance Indicators
 
 | Indicator | Reading | WoW | Owner |
 |---|---|---|---|
-| Worldline Divergence | 0.352612 | ▼ | Makise Kurisu |
-| Synergy Coefficient (name subject to change) | 0.83 | ─ | Itaru Hashida |
-| Stakeholder Alignment Index | 9.0 | ─ | Jerry Gergich |
-| Ideation Throughput | 3 story points | ─ | Ben Wyatt |
-| Bandwidth Utilisation | 73% | ▲ | Chris Traeger |
-| Lil Sebastian Sentiment | 5,000 candles | ─ | Leslie Knope |
+| Worldline Divergence | 0.358619 | ─ | Leslie Knope |
+| Synergy Coefficient (name subject to change) | 0.68 | ─ | Jerry Gergich |
+| Stakeholder Alignment Index | 8.6 | ▲ | Leslie Knope |
+| Ideation Throughput | 7 story points | ─ | Itaru Hashida |
+| Bandwidth Utilisation | 79% | ▲ | Jerry Gergich |
+| Lil Sebastian Sentiment | 5,000 candles | ▲ | Jerry Gergich |
 
 Ideation Throughput is this cycle's commit count with a different name on it.
 Every other row is a random number. No decisions were informed by this document.
